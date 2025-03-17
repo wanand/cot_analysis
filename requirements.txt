@@ -1,0 +1,9 @@
+pandas
+cot_reports
+matplotlib
+plotly
+nbformat>=4.2.0
+ipywidgets
+mplfinance
+openpyxl
+sqlalchemy 
